@@ -18,3 +18,4 @@ if(mysqli_affected_rows($conn)>0){
 }else{
     echo "添加失败";
 }
+```
